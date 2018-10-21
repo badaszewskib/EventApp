@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    //FUCK
+    //FUCK me Jerry
 
     private TextView mTextMessage;
 
